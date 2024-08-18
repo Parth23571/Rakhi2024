@@ -33,7 +33,7 @@ public class SearchTest {
 		driver.manage().window().maximize();
 pomSearch ss = new pomSearch(driver);
 ss.enterFirstName("hello");
-	ss.enterLastName("Sat\'s");
+	ss.enterLastName("Sas");
 	ss.clickQA();
 	}
 
